@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "Button2",
-  "left": 168,
+  "id": "Button3",
+  "left": 192,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "Button2.onclick()",
+  "onclick": "Button3.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 175,
-  "value": "Delete Customer",
-  "width": 154
+  "top": 309,
+  "value": "Done",
+  "width": "auto"
 }
