@@ -14,36 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "secondProgram",
+        "babyNames",
         "Elements",
-        "Select2.json"
+        "Button3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "secondProgram",
+        "babyNames",
         "Elements",
-        "Button1.json"
+        "Label3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "secondProgram",
+        "babyNames",
         "Elements",
-        "Button2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "secondProgram",
-        "Elements",
-        "Label2.json"
+        "Select3.json"
       ]
     }
   ],
@@ -53,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "secondProgram",
+  "id": "babyNames",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

@@ -29,13 +29,13 @@
   "icon": "",
   "iconTitle": "",
   "id": "Button1",
-  "left": 31,
+  "left": 10,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "Button1.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -61,6 +61,6 @@
   "style": "",
   "toggleControl": "",
   "top": 175,
-  "value": "Button",
+  "value": "Show Customer",
   "width": "auto"
 }
